@@ -1,0 +1,23 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Windows XP をターゲットとするサポートは非推奨であり、Visual Studio の将来のリリースで提供されなくなります。詳細については、https://go.microsoft.com/fwlink/?linkid=2023588 をご覧ください。
+  main.c
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(13): warning C4028: パラメーターの型 3 が関数宣言と一致しません。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(22): warning C4047: '関数': 間接参照のレベルが 'SIZE_T' と 'void *' で異なっています。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(22): warning C4024: 'CreateThread': の型が 2 の仮引数および実引数と異なります。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(22): warning C4047: '関数': 間接参照のレベルが 'DWORD' と 'void *' で異なっています。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(22): warning C4024: 'CreateThread': の型が 5 の仮引数および実引数と異なります。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(40): warning C4047: '関数': 間接参照のレベルが 'DWORD' と 'void *' で異なっています。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(40): warning C4024: 'CreateWindowExA': の型が 4 の仮引数および実引数と異なります。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(118): warning C4047: '関数': 間接参照のレベルが 'SIZE_T' と 'void *' で異なっています。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(118): warning C4024: 'CreateThread': の型が 2 の仮引数および実引数と異なります。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(118): warning C4047: '関数': 間接参照のレベルが 'DWORD' と 'void *' で異なっています。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(118): warning C4024: 'CreateThread': の型が 5 の仮引数および実引数と異なります。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(144): warning C4047: '関数': 間接参照のレベルが 'DWORD' と 'void *' で異なっています。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(144): warning C4024: 'CreateToolhelp32Snapshot': の型が 2 の仮引数および実引数と異なります。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(179): warning C4047: '関数': 間接参照のレベルが 'DWORD' と 'void *' で異なっています。
+c:\users\owner\デスクトップ\日本語版memz\vc\memz\main.c(179): warning C4024: 'CreateThread': の型が 5 の仮引数および実引数と異なります。
+  コード生成しています。
+  1 of 22 functions ( 4.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  MEMZ.vcxproj -> C:\Users\Owner\デスクトップ\日本語版MEMZ\VC\Release\MEMZ.exe
